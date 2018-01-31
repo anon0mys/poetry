@@ -6,10 +6,10 @@ With your bitter, twisted lies,
 You may trod me in the very dirt
 But still, like dust, I'll rise.
 ## Verse 2
-* Does my sassiness upset you?
-Why are you beset with gloom?
+* Why are you beset with gloom?
 'Cause I walk like I've got oil wells
 Pumping in my living room.
+
 ## Verse 3
 * Just like moons and like suns,
 With the certainty of tides,
@@ -19,7 +19,7 @@ Still I'll rise.
 ## Verse 4
 Added a line
 ## Verse 5
-same line
+* adding something here
 ## Verse 6
 
 ## Verse 7
