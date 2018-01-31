@@ -5,6 +5,10 @@
 ## Verse 2
 
 ## Verse 3
+* Just like moons and like suns,
+With the certainty of tides,
+Just like hopes springing high,
+Still I'll rise.
 
 ## Verse 4
 
@@ -15,3 +19,5 @@
 ## Verse 7
 
 ## Verse 8
+
+#
